@@ -1,6 +1,6 @@
 I have created a simple invitation letter using HTML as part of my practice. I would appreciate it if you could review the code and provide feedback on how I can improve my skills further. Your insights would be invaluable in helping me enhance my understanding of HTML.
 
-`<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,4 +68,3 @@ I have created a simple invitation letter using HTML as part of my practice. I w
     </div>
 </body>
 </html>
-`
